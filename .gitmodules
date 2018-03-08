@@ -1,0 +1,3 @@
+[submodule "creditcards-types"]
+	path = creditcards-types
+	url = https://github.com/subpx/creditcards-types.git
